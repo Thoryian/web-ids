@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading</title>
+    <link rel="stylesheet" href="css/loadstyles.css">
+
+    </head>
+<body>
+<div class="boot-animation">
+<div>Loading</div>
+<div class="loading-bar">
+<div class="progress-bar"></div>
+</div>
+</div>
+<script>
+const progressBar = document.querySelector(".progress-bar");
+progressBar.addEventListener("animationend", () => {
+window.location.href = "main.html";
+});
+console.log("https://github.com/HttpAnimation/")
+</script>
+</body>
+</html>
