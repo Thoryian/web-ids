@@ -14,7 +14,6 @@ document.addEventListener('click', function () {
     {name: 'Scratch', url: 'https://scratch.mit.edu/users/theoryian/'},
     {name: 'Roblox', url: 'https://www.roblox.com/users/4575669522/profile'},
     {name: 'Pinterest', url: 'https://www.pinterest.com/fluxcore847/'},
-    {name: 'Paypal', url: 'https://www.paypal.com/paypalme/fluxxcore'},
   ];
   
   const socialList = document.getElementById('social-links');
