@@ -14,6 +14,8 @@ document.addEventListener('click', function () {
     {name: 'Scratch', url: 'https://scratch.mit.edu/users/theoryian/'},
     {name: 'Roblox', url: 'https://www.roblox.com/users/4575669522/profile'},
     {name: 'Pinterest', url: 'https://www.pinterest.com/fluxcore847/'},
+    {name: 'Spotify Playlist', url: 'https://open.spotify.com/playlist/2TOPMi4Xu27kEr8EaGszST?si=26db13c23c684e0c'},
+    {name: 'Steam', url: 'https://steamcommunity.com/profiles/76561199256235424'},
   ];
   
   const socialList = document.getElementById('social-links');
